@@ -7,7 +7,7 @@ def change_color():
         case 1:
             button['bg'] = 'green'
         case 2:
-            button['bg'] = 'black'
+            button['bg'] = 'orange'
 if __name__ == '__main__':
     root = tk.Tk()
     root.geometry("250x250")
